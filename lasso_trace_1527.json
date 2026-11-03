@@ -1,0 +1,51 @@
+[
+ {
+  "method": "eth_call",
+  "request_id": "GOR9exbQ3n6lA2oAEm0j",
+  "provider": "premium_base_alchemy_3",
+  "retries": 0,
+  "error": null
+ },
+ {
+  "method": "eth_estimateGas",
+  "request_id": "GOR9eyQtgiqvnEAAEm3D",
+  "provider": "premium_base_alchemy_3",
+  "retries": 0,
+  "error": null
+ },
+ {
+  "method": "eth_getTransactionCount",
+  "request_id": "GOR9ey8sBQLMUDsAJesB",
+  "provider": "premium_base_alchemy_3",
+  "retries": 0,
+  "error": null
+ },
+ {
+  "method": "eth_gasPrice",
+  "request_id": "GOR9ez8sWZjt3bgAEm4j",
+  "provider": "premium_base_7",
+  "retries": 0,
+  "error": null
+ },
+ {
+  "method": "eth_getBalance",
+  "request_id": "GOR9e1jGQKCP2GAAHTai",
+  "provider": "premium_base_alchemy_3",
+  "retries": 0,
+  "error": null
+ },
+ {
+  "method": "eth_sendRawTransaction",
+  "request_id": "GOR9e3H1fs62PucAEm9D",
+  "provider": "premium_base_1",
+  "retries": 0,
+  "error": null
+ },
+ {
+  "method": "eth_getTransactionReceipt",
+  "request_id": "GOR9fDQXPjR0oQsAJezh",
+  "provider": "premium_base_7",
+  "retries": 0,
+  "error": null
+ }
+]
